@@ -4,7 +4,7 @@ import { useRef, useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
-const INITIAL_CENTER = [-81.2749, 43.0061];
+const INITIAL_CENTER = [-81.2734, 43.0075];
 const INITIAL_ZOOM = 16.83;
 const INITIAL_BEARING = 0;
 const INITIAL_PITCH = 50.0;
